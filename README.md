@@ -8,8 +8,14 @@ nodemon start
 
 В папке frontend/vtb-frontend: 
 ```bash
+npm run build
+# или
+yarn build
+```
+
+```bash
 npm run dev
-# or
+# или
 yarn dev
 ```
 Чтобы получить переменные окружения, пожалуйста напишите в tg @w84april
